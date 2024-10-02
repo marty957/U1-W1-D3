@@ -1,0 +1,41 @@
+header h3 {
+  background-color: #c6bc542e;
+  border-top: 1px solid;
+  border-top-color: orange;
+  padding: 5px;
+}
+p span {
+  color: red;
+}
+header hr {
+  color: orange;
+  margin: 0;
+}
+body {
+  text-align: center;
+  padding: 20px;
+}
+
+ul {
+  text-align: left;
+  padding: 10;
+}
+main {
+  padding-left: 25%;
+  padding-right: 25%;
+  text-align: left;
+}
+
+footer {
+  padding-left: 25%;
+  padding-right: 25%;
+  text-align: left;
+}
+nav img {
+  border-radius: 8px;
+  box-shadow: 5px 5px 10px;
+}
+.parag {
+  border-left: 2px solid orange;
+  padding-left: 8px;
+}
